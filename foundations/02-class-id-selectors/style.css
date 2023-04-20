@@ -1,7 +1,10 @@
 .odds{
-    color: blue;
     background-color: pink;
     font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.adjust{
+    font-size: 24px;
 }
 
 #two{
@@ -10,5 +13,7 @@
 }
 
 #four{
-    color: yellow;
+    background-color: green;
+    font-size: 24px;
+    font-weight: 700;
 }
